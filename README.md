@@ -1,2 +1,4 @@
-# sitechnologies-site
-SITechnologies marketing &amp; licensing site (sitechnologies.io)
+# SITechnologies — sitechnologies.io
+
+Marketing & platform-licensing site. Static single page; deployed via Cloudflare Pages
+(Git-connected, auto-deploys on push to main).
